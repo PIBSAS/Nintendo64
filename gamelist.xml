@@ -100,31 +100,6 @@
 		<players>4</players>
 	</game>
 	<game>
-		<path>./Beetle Adventure Racing! (USA) (En,Fr,De).z64</path>
-		<name>Beetle Adventure Racing!</name>
-		<desc>Take control of a collection of the latest Volkswagen Beetle "2.0" models, from street type to off-road designs, and race across varying road types that will test your speed and endurance!
-Find shortcuts or use nitro boosts to finish first in order to move on to the next track. If the computer AI is to easy for you, battle against a friend in two player race mode or challenge up to 4 people in a special Battle Mode, with added abilities including weapons, from mines and rockets to magical elements, while collecting the flag and finding the exit!</desc>
-		<image>./media/images/Beetle Adventure Racing! (USA) (En,Fr,De).png</image>
-		<video>./media/videos/Beetle Adventure Racing! (USA) (En,Fr,De).mp4</video>
-		<releasedate>19990228T000000</releasedate>
-		<developer>Paradigm Entertainment Inc.</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Big Mountain 2000 (USA).z64</path>
-		<name>Big Mountain 2000</name>
-		<desc>Big Mountain 2000 is a wintersports game where you can choose to race downhill with either a snowboard or skis. There are various characters to choose from, each of them with different skills. Three game modes are available in total, in which free ride, slalom and giant slalom can be chosen as track styles; game modes include championship, time attack and also a battle mode for multiplayer challenges.</desc>
-		<image>./media/images/Big Mountain 2000 (USA).png</image>
-		<video>./media/videos/Big Mountain 2000 (USA).mp4</video>
-		<releasedate>20001010T000000</releasedate>
-		<developer>Genki Co., Ltd.</developer>
-		<publisher>Imagineer Co., Ltd.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Bio F.R.E.A.K.S. (USA).z64</path>
 		<name>Bio F.R.E.A.K.S.</name>
 		<desc>Bio F.R.E.A.K.S. is a 3D fighting game released by Midway in 1998. It was originally planned for arcades. However, this arcade prototype was scrapped and never officially released (although it exists on MAME), and the game was later released for the PlayStation, Nintendo 64 and PC.</desc>
@@ -5424,20 +5399,6 @@ Real Combat. Plastic Men.
 		<lastplayed>20200911T175557</lastplayed>
 	</game>
 	<game>
-		<path>./Army Men - Sarge's Heroes 2 (USA).z64</path>
-		<name>Army Men: Sarge's Heroes 2</name>
-		<desc>CONFIDENTIAL. 0600 hours: Tan forces captured Bravo Company Commandos. General Plastro has new weapons of mass destruction: magnifying glass, M-80 firecrackers and the garbage disposal. This is a job for Sarge. Requisition M-60s, shotguns, bazookas, flame throwers, grenades, sniper rifles, mortars, mine sweepers and plenty of ammo. Good luck, soldier.</desc>
-		<image>./media/images/Army Men - Sarge's Heroes 2 (USA).png</image>
-		<video>./media/videos/Army Men - Sarge's Heroes 2 (USA).mp4</video>
-		<releasedate>20001116T000000</releasedate>
-		<developer>3DO</developer>
-		<publisher>3DO</publisher>
-		<genre>Action, Shooter</genre>
-		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20200911T175646</lastplayed>
-	</game>
-	<game>
 		<path>./Asteroids Hyper 64 (USA).z64</path>
 		<name>Asteroids Hyper 64</name>
 		<desc>Asteroids Hyper 64 is an updated version of the classic arcade blast 'em up and features full 3D environments, all new weapons and defense systems and a 2 player split-screen mode. The gameplay, however, is exactly the same. Pilot a spacecraft and destroy the on-coming asteroids, each of different sizes. Alien ships and black holes are also out there, along with ship upgrades that update your ships weapons and defense systems.</desc>
@@ -5512,5 +5473,48 @@ You'll have your choice of four different race styles; six challenging racetrack
 		<players>4</players>
 		<playcount>1</playcount>
 		<lastplayed>20200911T181505</lastplayed>
+	</game>
+	<game>
+		<path>./Army Men - Sarge's Heroes 2 (USA).z64</path>
+		<name>Army Men: Sarge's Heroes 2</name>
+		<desc>CONFIDENTIAL. 0600 hours: Tan forces captured Bravo Company Commandos. General Plastro has new weapons of mass destruction: magnifying glass, M-80 firecrackers and the garbage disposal. This is a job for Sarge. Requisition M-60s, shotguns, bazookas, flame throwers, grenades, sniper rifles, mortars, mine sweepers and plenty of ammo. Good luck, soldier.</desc>
+		<image>./media/images/Army Men - Sarge's Heroes 2 (USA).png</image>
+		<video>./media/videos/Army Men - Sarge's Heroes 2 (USA).mp4</video>
+		<releasedate>20001116T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20200914T235209</lastplayed>
+	</game>
+	<game>
+		<path>./Beetle Adventure Racing! (USA) (En,Fr,De).z64</path>
+		<name>Beetle Adventure Racing!</name>
+		<desc>Take control of a collection of the latest Volkswagen Beetle "2.0" models, from street type to off-road designs, and race across varying road types that will test your speed and endurance!
+Find shortcuts or use nitro boosts to finish first in order to move on to the next track. If the computer AI is to easy for you, battle against a friend in two player race mode or challenge up to 4 people in a special Battle Mode, with added abilities including weapons, from mines and rockets to magical elements, while collecting the flag and finding the exit!</desc>
+		<image>./media/images/Beetle Adventure Racing! (USA) (En,Fr,De).png</image>
+		<video>./media/videos/Beetle Adventure Racing! (USA) (En,Fr,De).mp4</video>
+		<releasedate>19990228T000000</releasedate>
+		<developer>Paradigm Entertainment Inc.</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20200914T235712</lastplayed>
+	</game>
+	<game>
+		<path>./Big Mountain 2000 (USA).z64</path>
+		<name>Big Mountain 2000</name>
+		<desc>Big Mountain 2000 is a wintersports game where you can choose to race downhill with either a snowboard or skis. There are various characters to choose from, each of them with different skills. Three game modes are available in total, in which free ride, slalom and giant slalom can be chosen as track styles; game modes include championship, time attack and also a battle mode for multiplayer challenges.</desc>
+		<image>./media/images/Big Mountain 2000 (USA).png</image>
+		<video>./media/videos/Big Mountain 2000 (USA).mp4</video>
+		<releasedate>20001010T000000</releasedate>
+		<developer>Genki Co., Ltd.</developer>
+		<publisher>Imagineer Co., Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<playcount>7</playcount>
+		<lastplayed>20200915T000638</lastplayed>
 	</game>
 </gameList>
