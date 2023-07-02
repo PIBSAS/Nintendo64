@@ -15,4 +15,15 @@
 curl -sSL https://raw.githubusercontent.com/Luciano2018/Nintendo64/master/n64.sh | bash
 ```
 
+# Recalbox Open Terminal and type:
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Nintendo64/master/n64recal.sh | bash
+```
+
+# Batocera Open Terminal and type:
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Nintendo64/master/n64bato.sh | bash
+```
+
+
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
