@@ -10,8 +10,8 @@
 </a>
 </p>
 #RetroPie or Raspberry Pi OS Open Terminal and type:
-´´´
+'''
 curl -sSL https://raw.githubusercontent.com/Luciano2018/Nintendo64/master/n64.sh | bash
-´´´
+'''
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
