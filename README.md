@@ -13,12 +13,6 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://link.mercadopago.com.ar/raspberrypibsas">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
-</a>
-</p>
-
 # RetroPie or Raspberry Pi OS Open Terminal and type:
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/Nintendo64/master/n64.sh | bash
