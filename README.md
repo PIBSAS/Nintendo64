@@ -15,7 +15,7 @@
 
 # RetroPie or Raspberry Pi OS Open Terminal and type:
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro.sh | bash
 ```
 
 # Recalbox Open Terminal and type:
