@@ -23,6 +23,11 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro.sh
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal.sh | bash
 ```
 
+# Batocera Open Terminal and type:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato.sh | bash
+```
+
 <h1 align="center"> Invite a Coffee</h1>
 <p align="center">
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
@@ -35,10 +40,10 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal.sh
 
 
 # Tutorial: Retroconsolas
-[https://sites.google.com/view/raspberrypibuenosaires/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
+[https://sites.google.com/view/lucianostech/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
 
 # Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
-[https://sites.google.com/view/raspberrypibuenosaires/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
+[https://sites.google.com/view/lucianostech/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
 
 # Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
