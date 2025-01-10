@@ -5,13 +5,16 @@
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
 cd
-RUTA=https://github.com/PIBSAS/Nintendo64/raw/master/
+RUTA="https://github.com/PIBSAS/Nintendo64/raw/master/"
 mkdir $HOME/
 mkdir $HOME/RetroPie/
 mkdir $HOME/RetroPie/roms/
 mkdir $HOME/RetroPie/roms/n64/
 mkdir $HOME/RetroPie/roms/n64/media/
 mkdir $HOME/RetroPie/roms/n64/media/images/
+echo
+echo "Remove bad media and roms or the exact same we will get"
+echo
 rm "$HOME/RetroPie/roms/n64/007 - The World Is Not Enough (USA).z64"
 rm "$HOME/RetroPie/roms/n64/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).z64"
 rm "$HOME/RetroPie/roms/n64/40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64"
@@ -842,6 +845,9 @@ rm "$HOME/RetroPie/roms/n64/media/images/Xena - Warrior Princess - The Talisman 
 rm "$HOME/RetroPie/roms/n64/media/images/Yakouchuu II - Satsujin Kouro (Japan).png"
 rm "$HOME/RetroPie/roms/n64/media/images/Yoshi's Story (USA) (En,Ja).png"
 rm "$HOME/RetroPie/roms/n64/media/images/Zool - Majuu Tsukai Densetsu (Japan).png"
+echo
+echo "Getting games"
+echo
 wget -P $HOME/RetroPie/roms/n64 "${RUTA}007 - The World Is Not Enough (USA).z64"
 wget -P $HOME/RetroPie/roms/n64 "${RUTA}1080 TenEighty Snowboarding (Japan, USA) (En,Ja).z64"
 wget -P $HOME/RetroPie/roms/n64 "${RUTA}40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64"
@@ -1672,4 +1678,5 @@ wget -P $HOME/RetroPie/roms/n64/media/images "${RUTA}media/images/Xena - Warrior
 wget -P $HOME/RetroPie/roms/n64/media/images "${RUTA}media/images/Yakouchuu II - Satsujin Kouro (Japan).png"
 wget -P $HOME/RetroPie/roms/n64/media/images "${RUTA}media/images/Yoshi's Story (USA) (En,Ja).png"
 wget -P $HOME/RetroPie/roms/n64/media/images "${RUTA}media/images/Zool - Majuu Tsukai Densetsu (Japan).png"
+echo
 echo "Enjoy"
