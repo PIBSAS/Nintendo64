@@ -1,4 +1,9 @@
 #!/bin/bash
+###########################################################################
+# Repositorio: Nintendo64
+# Por: Luciano's Tech (https://sites.google.com/view/lucianostech)
+# License: http://creativecommons.org/licenses/by-sa/4.0/
+###########################################################################
 cd
 mount -o remount,rw /
 mount -o remount,rw /boot
