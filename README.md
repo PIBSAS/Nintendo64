@@ -13,19 +13,33 @@
 </a>
 </p>
 
-# RetroPie or Raspberry Pi OS Open Terminal and type:
+# RetroPie or Raspberry Pi OS Scrapped Open Terminal and type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro.sh | bash
 ```
+# Only roms:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro_roms.sh | bash
+```
 
-# Recalbox Open Terminal and type:
+# Recalbox Scrapped Open Terminal and type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal.sh | bash
 ```
 
-# Batocera Open Terminal and type:
+# Only roms:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal_roms.sh | bash
+```
+
+# Batocera Scrapped Open Terminal and type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato.sh | bash
+```
+
+# Only roms:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato_roms.sh | bash
 ```
 
 <h1 align="center"> Invite a Coffee</h1>
@@ -48,9 +62,4 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato.sh 
 # Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
 
-
-# Batocera Open Terminal and type:
-```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato.sh | bash
-```
 # Enjoy!
