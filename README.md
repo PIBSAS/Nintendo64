@@ -17,7 +17,7 @@
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro.sh | bash
 ```
-# Only roms:
+### Only roms:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro_roms.sh | bash
 ```
@@ -27,7 +27,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64retro_ro
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal.sh | bash
 ```
 
-# Only roms:
+### Only roms:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal_roms.sh | bash
 ```
@@ -37,7 +37,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64recal_ro
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato.sh | bash
 ```
 
-# Only roms:
+### Only roms:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato_roms.sh | bash
 ```
@@ -53,13 +53,13 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/Nintendo64/master/n64bato_rom
 </p>
 
 
-# Tutorial: Retroconsolas
+## Tutorial: Retroconsolas
 [https://sites.google.com/view/lucianostech/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
 
-# Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
+## Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
 [https://sites.google.com/view/lucianostech/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
 
-# Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
+## Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
 
-# Enjoy!
+## Enjoy!
