@@ -8,7 +8,7 @@ cd
 mount -o remount,rw /
 mount -o remount,rw /boot
 
-RUTA=https://github.com/PIBSAS/Nintendo64/raw/master/
+RUTA="https://github.com/PIBSAS/Nintendo64/raw/master/"
 mkdir ../roms/
 mkdir ../roms/n64/
 rm "../roms/n64/007 - The World Is Not Enough (USA).z64"
